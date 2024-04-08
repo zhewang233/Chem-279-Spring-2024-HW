@@ -1,0 +1,651 @@
+Box lattice vectors (Bohr):   9.4486        0        0
+        0   9.4486        0
+        0        0   9.4486
+
+Cutoff energy (eV): 100
+Number of basis functions: 214
+Number of grid points: 20 x 20 x 20
+Number of electrons: 2
+Real space density initialized (Gaussian distribution centered at the origin)
+Finished constructing the kinetic energy part of the Hamiltonian
+Finished evaluating the basis set at each grid point
+Iteration:0
+Poisson solver converged in 3124 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -1.01825
+Kinetic energy: 1.45433
+Hartree energy: 0.392447
+External energy: -4.27571
+Energy of occupied orbital (beta) 0: -1.01825
+Total energy: -2.42894
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.383015
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.108064
+Basis contribution:        1        1        5
+ to orbital (alpha) 0 is 0.0181073
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.108064
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0406172
+Basis contribution:        1        5        1
+ to orbital (alpha) 0 is 0.0181073
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.108064
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0406172
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0406172
+Basis contribution:        3        3        3
+ to orbital (alpha) 0 is 0.0180193
+Basis contribution:        5        1        1
+ to orbital (alpha) 0 is 0.0181073
+
+Iteration:1
+Poisson solver converged in 3098 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.317395
+Kinetic energy: 0.606335
+Hartree energy: 0.833151
+External energy: -2.90743
+Energy of occupied orbital (beta) 0: -0.317395
+Total energy: -1.46794
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.829994
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0357044
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0357044
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0357044
+
+Iteration:2
+Poisson solver converged in 3047 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.596088
+Kinetic energy: 1.11553
+Hartree energy: 0.774218
+External energy: -3.85614
+Energy of occupied orbital (beta) 0: -0.596088
+Total energy: -1.96639
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.539033
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0890335
+Basis contribution:        1        1        5
+ to orbital (alpha) 0 is 0.0117276
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0890335
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0279965
+Basis contribution:        1        5        1
+ to orbital (alpha) 0 is 0.0117276
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0890335
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0279965
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0279965
+Basis contribution:        3        3        3
+ to orbital (alpha) 0 is 0.0116301
+Basis contribution:        5        1        1
+ to orbital (alpha) 0 is 0.0117276
+
+Iteration:3
+Poisson solver converged in 3001 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.382228
+Kinetic energy: 0.757339
+Hartree energy: 0.862224
+External energy: -3.24624
+Energy of occupied orbital (beta) 0: -0.382228
+Total energy: -1.62668
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.738217
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0540531
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0540531
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0144708
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0540531
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0144708
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0144708
+
+Iteration:4
+Poisson solver converged in 2913 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.510614
+Kinetic energy: 0.994665
+Hartree energy: 0.828823
+External energy: -3.67354
+Energy of occupied orbital (beta) 0: -0.510614
+Total energy: -1.85005
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.602671
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.07882
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.07882
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0234006
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.07882
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0234006
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0234006
+
+Iteration:5
+Poisson solver converged in 2977 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.416728
+Kinetic energy: 0.828903
+Hartree energy: 0.861989
+External energy: -3.38634
+Energy of occupied orbital (beta) 0: -0.416728
+Total energy: -1.69545
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.696056
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0621096
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0621096
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0171354
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0621096
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0171354
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0171354
+
+Iteration:6
+Poisson solver converged in 2834 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.477963
+Kinetic energy: 0.941441
+Hartree energy: 0.844505
+External energy: -3.58638
+Energy of occupied orbital (beta) 0: -0.477963
+Total energy: -1.80043
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.631942
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0737754
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0737754
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0213792
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0737754
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0213792
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0213792
+
+Iteration:7
+Poisson solver converged in 2795 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.434451
+Kinetic energy: 0.863306
+Hartree energy: 0.858864
+External energy: -3.44994
+Energy of occupied orbital (beta) 0: -0.434451
+Total energy: -1.72777
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.676156
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0658125
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0658125
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0184269
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0658125
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0184269
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0184269
+
+Iteration:8
+Poisson solver converged in 2898 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.463718
+Kinetic energy: 0.916809
+Hartree energy: 0.850129
+External energy: -3.5445
+Energy of occupied orbital (beta) 0: -0.463718
+Total energy: -1.77756
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.645726
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0713346
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0713346
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0204461
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0713346
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0204461
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0204461
+
+Iteration:9
+Poisson solver converged in 2709 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.44324
+Kinetic energy: 0.879797
+Hartree energy: 0.856676
+External energy: -3.47963
+Energy of occupied orbital (beta) 0: -0.44324
+Total energy: -1.74316
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.666708
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0675459
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0675459
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.019048
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0675459
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.019048
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.019048
+
+Iteration:10
+Poisson solver converged in 2713 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.457196
+Kinetic energy: 0.905231
+Hartree energy: 0.852421
+External energy: -3.52446
+Energy of occupied orbital (beta) 0: -0.457196
+Total energy: -1.76681
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.652256
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0701648
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0701648
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0200081
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0701648
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0200081
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0200081
+
+Iteration:11
+Poisson solver converged in 2758 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.447507
+Kinetic energy: 0.88767
+Hartree energy: 0.855473
+External energy: -3.49363
+Energy of occupied orbital (beta) 0: -0.447507
+Total energy: -1.75049
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.662219
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0683637
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0683637
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0193449
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0683637
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0193449
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0193449
+
+Iteration:12
+Poisson solver converged in 2650 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.454149
+Kinetic energy: 0.899756
+Hartree energy: 0.853428
+External energy: -3.51491
+Energy of occupied orbital (beta) 0: -0.454149
+Total energy: -1.76173
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.655354
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0696067
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0696067
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0198012
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0696067
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0198012
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0198012
+
+Iteration:13
+Poisson solver converged in 2692 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.449555
+Kinetic energy: 0.891419
+Hartree energy: 0.854865
+External energy: -3.50026
+Energy of occupied orbital (beta) 0: -0.449555
+Total energy: -1.75397
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.660086
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0687509
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0687509
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0194864
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0687509
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0194864
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0194864
+
+Iteration:14
+Poisson solver converged in 2547 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.452713
+Kinetic energy: 0.897161
+Hartree energy: 0.853887
+External energy: -3.51036
+Energy of occupied orbital (beta) 0: -0.452713
+Total energy: -1.75931
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.656825
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0693411
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0693411
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0197032
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0693411
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0197032
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0197032
+
+Iteration:15
+Poisson solver converged in 2531 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.450533
+Kinetic energy: 0.893202
+Hartree energy: 0.854567
+External energy: -3.5034
+Energy of occupied orbital (beta) 0: -0.450533
+Total energy: -1.75563
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.659072
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0689346
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0689346
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0195537
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0689346
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0195537
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0195537
+
+Iteration:16
+Poisson solver converged in 2524 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.452034
+Kinetic energy: 0.89593
+Hartree energy: 0.854101
+External energy: -3.5082
+Energy of occupied orbital (beta) 0: -0.452034
+Total energy: -1.75817
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.657524
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0692148
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0692148
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196567
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0692148
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196567
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196567
+
+Iteration:17
+Poisson solver converged in 2473 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.450999
+Kinetic energy: 0.894049
+Hartree energy: 0.854424
+External energy: -3.50489
+Energy of occupied orbital (beta) 0: -0.450999
+Total energy: -1.75642
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658591
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0690217
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0690217
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0195857
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0690217
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0195857
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0195857
+
+Iteration:18
+Poisson solver converged in 2481 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451712
+Kinetic energy: 0.895345
+Hartree energy: 0.854202
+External energy: -3.50717
+Energy of occupied orbital (beta) 0: -0.451712
+Total energy: -1.75763
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.657856
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0691548
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0691548
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196346
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0691548
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196346
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196346
+
+Iteration:19
+Poisson solver converged in 2465 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.45122
+Kinetic energy: 0.894452
+Hartree energy: 0.854355
+External energy: -3.5056
+Energy of occupied orbital (beta) 0: -0.45122
+Total energy: -1.7568
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658362
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0690631
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0690631
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196009
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0690631
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196009
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196009
+
+Iteration:20
+Poisson solver converged in 2410 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451559
+Kinetic energy: 0.895067
+Hartree energy: 0.85425
+External energy: -3.50669
+Energy of occupied orbital (beta) 0: -0.451559
+Total energy: -1.75737
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658013
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0691263
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0691263
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196242
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0691263
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196242
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196242
+
+Iteration:21
+Poisson solver converged in 2444 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451326
+Kinetic energy: 0.894643
+Hartree energy: 0.854323
+External energy: -3.50594
+Energy of occupied orbital (beta) 0: -0.451326
+Total energy: -1.75697
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658254
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0690828
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0690828
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196081
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0690828
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196081
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196081
+
+Iteration:22
+Poisson solver converged in 2305 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451486
+Kinetic energy: 0.894936
+Hartree energy: 0.854273
+External energy: -3.50645
+Energy of occupied orbital (beta) 0: -0.451486
+Total energy: -1.75725
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658088
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0691128
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0691128
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196192
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0691128
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196192
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196192
+
+Iteration:23
+Poisson solver converged in 2223 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451375
+Kinetic energy: 0.894734
+Hartree energy: 0.854307
+External energy: -3.5061
+Energy of occupied orbital (beta) 0: -0.451375
+Total energy: -1.75706
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658202
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0690921
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0690921
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196116
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0690921
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196116
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196116
+
+Iteration:24
+Poisson solver converged in 2294 iterations
+The total number of electron is 2
+Energy of occupied orbital (alpha) 0: -0.451452
+Kinetic energy: 0.894873
+Hartree energy: 0.854283
+External energy: -3.50634
+Energy of occupied orbital (beta) 0: -0.451452
+Total energy: -1.75719
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658123
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0691064
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0691064
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196168
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0691064
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196168
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196168
+
+Iteration:25
+Poisson solver converged in 2272 iterations
+Energy of occupied orbital (alpha) 0: -0.451399
+Kinetic energy: 0.894777
+Hartree energy: 0.8543
+External energy: -3.50617
+Energy of occupied orbital (beta) 0: -0.451399
+Total energy: -1.7571
+Basis contribution:        1        1        1
+ to orbital (alpha) 0 is 0.658178
+Basis contribution:        1        1        3
+ to orbital (alpha) 0 is 0.0690965
+Basis contribution:        1        3        1
+ to orbital (alpha) 0 is 0.0690965
+Basis contribution:        1        3        3
+ to orbital (alpha) 0 is 0.0196132
+Basis contribution:        3        1        1
+ to orbital (alpha) 0 is 0.0690965
+Basis contribution:        3        1        3
+ to orbital (alpha) 0 is 0.0196132
+Basis contribution:        3        3        1
+ to orbital (alpha) 0 is 0.0196132
+
+SCF converged in 26 iterations
+Energy of occupied orbital (alpha) 0: -0.451399
+Kinetic energy: 0.894777
+Hartree energy: 0.8543
+External energy: -3.50617
+Energy of occupied orbital (beta) 0: -0.451399
+Total energy: -1.7571
